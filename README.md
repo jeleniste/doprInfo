@@ -1,4 +1,5 @@
 # doprInfo
+![plugin](https://raw.githubusercontent.com/jeleniste/doprInfo/master/screenshots/doprinfo1.png)
 Plugin do Qgis, který slouží k načtení a zobrazení aktuálních [informací o
 dopravě](http://aplikace.policie.cz/dopravni-informace/)
 Začátek a konec dopravního omezení je vyznačen pomocí multipointu. 
